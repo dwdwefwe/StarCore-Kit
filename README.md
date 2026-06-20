@@ -27,22 +27,11 @@
 
 ---
 
-## 📸 界面预览
-
-<div align="center">
-  <img src="screenshots/dashboard.png" width="45%" alt="仪表盘"/>
-  <img src="screenshots/root.png" width="45%" alt="一键Root"/>
-  <img src="screenshots/edl.png" width="45%" alt="9008救砖"/>
-  <img src="screenshots/console.png" width="45%" alt="高级命令"/>
-</div>
-
----
-
 ## 📥 下载安装
 
 ### 方式一：便携版（推荐）
 
-从 [Releases](https://github.com/你的用户名/StarCore-Kit/releases) 下载 `StarCoreKit_1.0.0_portable.zip`，解压后直接运行 `StarCore Kit.exe`。
+从 [Releases](https://github.com/dwdwefwe/StarCore-Kit/releases) 下载 `StarCoreKit_1.0.0_portable.zip`，解压后直接运行 `StarCore Kit.exe`。
 
 ### 方式二：安装包
 
@@ -62,7 +51,7 @@
    - Fastboot 模式：选择镜像目录，勾选分区，批量刷写。
 5. **高级命令**：直接输入 ADB/Fastboot 命令，支持历史记录和收藏。
 
-完整教程见 [使用指南](https://github.com/你的用户名/StarCore-Kit/wiki)
+完整教程见 [使用指南](https://github.com/dwdwefwe/StarCore-Kit/wiki)
 
 ---
 
