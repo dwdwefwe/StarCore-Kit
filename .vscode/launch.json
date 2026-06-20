@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Tauri 开发调试 (F5)",
+      "cargo": {
+        "args": [
+          "build",
+          "--manifest-path",
+          "./src-tauri/Cargo.toml",
+          "--no-default-features"
+        ]
+      },
+      "preLaunchTask": "tauri-dev",
+      "postDebugTask": "stop-tauri-dev",
+      "env": {
+        "WEBKIT_DEBUG": "true"
+      }
+    }
+  ]
+}

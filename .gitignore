@@ -1,0 +1,10 @@
+# 依赖
+node_modules/
+src-tauri/target/
+
+# 构建产物（由 Releases 提供）
+*.msi
+*.exe
+
+# 环境变量
+.env
