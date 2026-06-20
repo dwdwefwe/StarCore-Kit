@@ -1,7 +1,6 @@
 # 🚀 StarCore Kit - 星核刷机工具箱
 
 <div align="center">
-  <img src="https://via.placeholder.com/128" alt="Logo" width="128"/>
   <h3>极简 · 专业 · 全能的 Android 刷机救砖工具箱</h3>
   <p>
     <img src="https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows" alt="Windows"/>
