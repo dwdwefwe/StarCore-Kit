@@ -77,7 +77,7 @@
 ## 🤝 贡献与反馈
 
 欢迎提交 Issue 或 Pull Request！  
-联系邮箱：your-email@example.com
+联系邮箱：toxicfox1314@outlook.com
 
 ---
 
